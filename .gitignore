@@ -24,5 +24,5 @@ go.work.sum
 # env file
 .env
 
-# resource.html file
+# Generated resource.html file
 resource.html
